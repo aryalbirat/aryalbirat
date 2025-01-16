@@ -1,166 +1,205 @@
-# Hi there! I'm Birat
+# Hi there! I'm Birat Aryal
 
-<!-- badge -->
-<div>
-  <a href="https://t.me/owencael" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/aryalbirat/" target="_blank">
     <img
-      height="35"
-      alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
-  <a href="mailto:MR-Addict@qq.com" target="_blank">
+  <a href="mailto:mailbirataryal@gmail.com" target="_blank">
     <img
-      height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
     />
   </a>
-  <a href="https://mraddict.one" target="_blank">
+  <a href="https://www.instagram.com/birataryal_/" target="_blank">
     <img
-      height="35"
-      alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://www.facebook.com/aryalbiratt" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
+  <a href="https://www.fiverr.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
+      alt="Fiverr"
+    />
+  </a>
+  <a href="https://aryalbirat.com.np" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Website-7F167F?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Website"
     />
   </a>
 </div>
 
+
 <br/>
 
-I'm an undergradute student of Njtech University from Jiangsu China.
+I'm a **Software Engineering Student** from Kathmandu, Nepal, with a passion for **technology** and **graphic design**. Here's a little about me:
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+- 🔭 I’m currently working on **creative projects** like Orbit Engineering Expo 2.0 and contributing to open-source.
+- 🌱 I’m continuously learning frontend technologies and enhancing my skills in **graphic design** and **animation**.
+- 👯 I’m eager to collaborate on exciting projects in design, tech, or event facilitation.
+- 💼 My portfolio showcases over **500 designs**, ranging from social media posts to event branding.
+- 💬 Ask me about anything related to **design tools**, **frontend tech**, or **event coordination**.
 
-- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
-- 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
-- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
-- 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
-- 💬 Ask me about anything related to programming, technology, or video games.
-- 😄 You can reach me using above social badges links.
+### Tools and Technologies I Use Frequently:
 
-Here are programming languages or tools I frequently used:
-
+#### **Programming Languages:**
 <div>
   <img
     height="30"
     width="42"
-    alt="typescript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+    alt="HTML logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="python logo"
+    alt="CSS logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="JavaScript logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="PHP logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="Python logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="matlab logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+    alt="Java logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
+</div>
+
+#### **Frameworks and Libraries:**
+<div>
   <img
     height="30"
     width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="react logo"
+    alt="React logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="svelte logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+    alt="Node logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="nextjs logo"
+    alt="NextJS logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="mongodb logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    alt="TailwindCSS logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
   />
   <img
     height="30"
     width="42"
-    alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+    alt="PyTorch logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="mysql logo"
+    alt="OpenCV logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+  />
+</div>
+
+#### **Design Tools:**
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="Canva logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="Photoshop logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="Figma logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+  />
+</div>
+
+#### **Databases:**
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="MySQL logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="docker logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nginx logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="processing logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="raspberrypi logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="arduino logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+    alt="MongoDB logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
   />
 </div>
 
 ##
 
-And here are some interesting grphs:
+### GitHub Stats:
 
-<!-- grph -->
+<!-- GitHub stats -->
 <div align="left">
   <div>
     <img
       height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+      alt="Stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryalbirat&theme=vue"
     />
     <img
       height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+      alt="Languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryalbirat&theme=vue"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=vue"
+    alt="Profile detail"
+  />
+  <img
+    src="https://raw.githubusercontent.com/aryalbirat/aryalbirat/output/snake/snake.svg"
+    alt="Snake animation"
+  />
 </div>
 
 ##
 
-If you have any questions or just want to say hi, feel free to reach out.
+If you have any questions or just want to connect, feel free to reach out!
 
-Have a great day!
-
----
-Credit: [MR-Addict](https://github.com/MR-Addict)
-Last Edit: 02/26/2023
+Have a great day! 😊
