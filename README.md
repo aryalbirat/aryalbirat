@@ -1,6 +1,25 @@
 # Hi there! I'm Birat Aryal
 
-<div align="center">
+<!-- Social badges -->
+<div align="left">
+  <!-- WakaTime Badge -->
+  <a href="https://wakatime.com/@64ad96f2-8815-4a1c-8606-e3155e039cce" target="_blank">
+    <img
+      src="https://wakatime.com/badge/user/64ad96f2-8815-4a1c-8606-e3155e039cce.svg"
+      alt="WakaTime Badge"
+    />
+  </a>
+
+  <!-- Profile Views Badge
+  <img
+    src="https://komarev.com/ghpvc/?username=aryalbirat&style=flat-square&color=blue"
+    alt="Profile Views"
+  /> -->
+</div>
+<br>
+
+<!-- Social Media Icons -->
+<div align="left">
   <a href="https://www.linkedin.com/in/aryalbirat/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -39,16 +58,19 @@
   </a>
 </div>
 
-
 <br/>
 
-I'm a **Software Engineering Student** from Kathmandu, Nepal, with a passion for **technology** and **graphic design**. Here's a little about me:
 
-- 🔭 I’m currently working on **creative projects** like Orbit Engineering Expo 2.0 and contributing to open-source.
-- 🌱 I’m continuously learning frontend technologies and enhancing my skills in **graphic design** and **animation**.
-- 👯 I’m eager to collaborate on exciting projects in design, tech, or event facilitation.
-- 💼 My portfolio showcases over **500 designs**, ranging from social media posts to event branding.
-- 💬 Ask me about anything related to **design tools**, **frontend tech**, or **event coordination**.
+
+I'm a **Software Engineering student** from Kathmandu, Nepal, with a passion for **AI/ML**, **Web Development** and **Graphics Design**. Here's a little about me:
+
+- 🤖 I'm currently working on **AI/ML projects** like **Nepali Sign Language Conversion** and **Route Optimization** to bridge the gap between technology and real-world problems.
+- 🌱 Continuously learning **Python** and exploring **frontend** and **backend** technologies to build scalable, user-friendly applications.
+- 🎨 Passionate about **designing**, from creating visually appealing websites to crafting eye-catching graphics, with an experience of creating over **200+ designs**.
+- 🚀 Eager to collaborate on exciting projects in **AI/ML**, **Web Development**, and **Event Facilitation**.
+- 💬 Always open to discussing **Technologies**,**Design tools**, **Tech innovations**, or how we can improve user experiences together.
+
+Feel free to reach out for collaboration or discussions on any of these topics!
 
 ### Tools and Technologies I Use Frequently:
 
@@ -175,27 +197,29 @@ I'm a **Software Engineering Student** from Kathmandu, Nepal, with a passion for
 ### GitHub Stats:
 
 <!-- GitHub stats -->
-<div align="left">
+<div align="center">
   <div>
     <img
       height="150"
       alt="Stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryalbirat&theme=vue"
+      src="https://github-readme-stats.vercel.app/api?username=aryalbirat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
     />
     <img
       height="150"
       alt="Languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryalbirat&theme=vue"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=aryalbirat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
     />
   </div>
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=vue"
     alt="Profile detail"
   />
+  <!--
   <img
     src="https://raw.githubusercontent.com/aryalbirat/aryalbirat/output/snake/snake.svg"
     alt="Snake animation"
   />
+  -->
 </div>
 
 ##
