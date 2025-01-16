@@ -211,7 +211,7 @@ Feel free to reach out for collaboration or discussions on any of these topics!
     />
   </div>
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=vue"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark"
     alt="Profile detail"
   />
   <!--
