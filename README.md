@@ -138,7 +138,7 @@ Feel free to reach out for collaboration or discussions on any of these topics!
     height="30"
     width="42"
     alt="TailwindCSS logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
   />
   <img
     height="30"
@@ -165,14 +165,14 @@ Feel free to reach out for collaboration or discussions on any of these topics!
   <img
     height="30"
     width="42"
-    alt="Photoshop logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+    alt="Figma logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="Figma logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    alt="Photoshop logo"
+    src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
   />
 </div>
 
