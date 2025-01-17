@@ -160,7 +160,7 @@ Feel free to reach out for collaboration or discussions on any of these topics!
     height="30"
     width="42"
     alt="Canva logo"
-    src"https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
   />
   <img
     height="30"
