@@ -10,7 +10,7 @@
     />
   </a>
 
-  <!-- Profile Views Badge
+  <!-- Profile Views Badge.
   <img
     src="https://komarev.com/ghpvc/?username=aryalbirat&style=flat-square&color=blue"
     alt="Profile Views"
@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<!-- Social Media Icons -->
+<!-- Some Social Media Icons -->
 <div align="left">
   <a href="https://www.linkedin.com/in/aryalbirat/" target="_blank">
     <img
