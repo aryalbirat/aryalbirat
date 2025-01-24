@@ -10,7 +10,7 @@
     />
   </a>
 
-  <!-- Profile View Badge.
+  <!-- ProfileView Badge.
   <img
     src="https://komarev.com/ghpvc/?username=aryalbirat&style=flat-square&color=blue"
     alt="Profile Views"
