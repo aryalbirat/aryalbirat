@@ -66,7 +66,7 @@ I'm a **Software Engineering student** from Kathmandu, Nepal, with a passion for
 
 - 🤖 I'm currently working on **AI/ML projects** like **Nepali Sign Language Conversion** and **Route Optimization** to bridge the gap between technology and real-world problems.
 - 🌱 Continuously learning **Python** and exploring **frontend** and **backend** technologies to build scalable, user-friendly applications.
-- 🎨 Passionate about **designing**, from creating visually appealing websites to crafting eye-catching graphics, with an experience of creating over **200+ designs**.
+- 🎨 Passionate about **designing**, from creating visually appealing websites to crafting eye-catching graphics, with an experience of creating over **300+ designs**.
 - 🚀 Eager to collaborate on exciting projects in **AI/ML**, **Web Development**, and **Event Facilitation**.
 - 💬 Always open to discussing **Technologies**, **Design tools**, **Tech innovations**, or how we can improve user experiences together.
 
