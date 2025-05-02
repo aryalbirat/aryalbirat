@@ -2,7 +2,7 @@
 
 <!-- Social Badges. -->
 <div align="left">
-  <!-- WakaTime Badge.. -->
+  <!-- WakaTime Badge -->
   <a href="https://wakatime.com/@64ad96f2-8815-4a1c-8606-e3155e039cce" target="_blank">
     <img
       src="https://wakatime.com/badge/user/64ad96f2-8815-4a1c-8606-e3155e039cce.svg"
