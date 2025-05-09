@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<!-- Some Social Media Icons. -->
+<!-- Some Social Media Icons.. -->
 <div align="left">
   <a href="https://www.linkedin.com/in/aryalbirat/" target="_blank">
     <img
