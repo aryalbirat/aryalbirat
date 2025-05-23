@@ -1,6 +1,6 @@
 # Hi there! I'm Birat Aryal
 
-<!-- Social Badges -->
+<!-- Social Badges. -->
 <div align="left">
   <!-- WakaTime Badge -->
   <a href="https://wakatime.com/@64ad96f2-8815-4a1c-8606-e3155e039cce" target="_blank">
@@ -10,11 +10,10 @@
     />
   </a>
 
-  <!-- ProfileView Badge..
   <img
     src="https://komarev.com/ghpvc/?username=aryalbirat&style=flat-square&color=blue"
     alt="Profile Views"
-  /> -->
+  />
 </div>
 <br>
 
@@ -61,14 +60,13 @@
 <br/>
 
 
+I’m a **Software Engineering student** based in Kathmandu, Nepal, with a strong passion for **Web Development** and **AI/ML**.
 
-I'm a **Software Engineering student** from Kathmandu, Nepal, with a passion for **AI/ML**, **Web Development** and **Graphics Design**. Here's a little about me:
-
-- 🤖 I'm currently working on **AI/ML projects** like **Nepali Sign Language Conversion** and **Route Optimization** to bridge the gap between technology and real-world problems.
-- 🌱 Continuously learning **Python** and exploring **frontend** and **backend** technologies to build scalable, user-friendly applications.
-- 🎨 Passionate about **designing**, from creating visually appealing websites to crafting eye-catching graphics, with an experience of creating over **300+ designs**.
-- 🚀 Eager to collaborate on exciting projects in **AI/ML**, **Web Development**, and **Event Facilitation**.
-- 💬 Always open to discussing **Technologies**, **Design tools**, **Tech innovations**, or how we can improve user experiences together.
+- 🤖 Currently working on innovative **AI/ML projects** that bridge the gap between technology and real-world challenges.  
+- 🌱 Continuously learning and growing my skills in **Artificial Intelligence** and exploring various **backend technologies** to build scalable, user-friendly applications.  
+- 🚀 Eager to collaborate on exciting projects in **AI/ML**, **Web Development**, and **Event Facilitation**.  
+- 🎨 Passionate about **designing**, with experience creating over **300+ visually appealing designs**, including websites and graphics.  
+- 💬 Always open to discussions about **technologies**, **design tools**, **tech innovations**, or ways to improve user experiences together.
 
 Feel free to reach out for collaboration or discussions on any of these topics!
 
@@ -224,6 +222,5 @@ Feel free to reach out for collaboration or discussions on any of these topics!
 
 ##
 
-If you have any questions or just want to connect, feel free to reach out!
+If you have any questions or just want to connect, feel free to reach out!😊
 
-Have a great day! 😊
