@@ -62,9 +62,9 @@
 
 I’m a **Software Engineering student** based in Kathmandu, Nepal, with a strong passion for **Web Development** and **AI/ML**.
 
-- 🤖 Currently working on innovative **AI/ML projects** that bridge the gap between technology and real-world challenges.  
+- 🤖 Currently working on various innovative **projects** that bridge the gap between technology and real-world challenges.  
 - 🌱 Continuously learning and growing my skills in **Artificial Intelligence** and exploring various **backend technologies** to build scalable, user-friendly applications.  
-- 🚀 Eager to collaborate on exciting projects in **AI/ML**, **Web Development**, and **Event Facilitation**.  
+- 🚀 Eager to collaborate on exciting projects in **Web Development** and **AI/ML**.  
 - 🎨 Passionate about **designing**, with experience creating over **300+ visually appealing designs**, including websites and graphics.  
 - 💬 Always open to discussions about **technologies**, **design tools**, **tech innovations**, or ways to improve user experiences together.
 
