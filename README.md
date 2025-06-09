@@ -1,5 +1,4 @@
 # Hi there! I'm Birat Aryal
-
 <!-- Social Badges-->
 <div align="left">
   <!-- WakaTime Badge -->
