@@ -137,7 +137,7 @@ Feel free to reach out for collaboration or discussions on any of these topics!
     alt="TailwindCSS logo"
     src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
   />
-  <img
+<!--   <img
     height="30"
     width="42"
     alt="PyTorch logo"
@@ -148,7 +148,7 @@ Feel free to reach out for collaboration or discussions on any of these topics!
     width="42"
     alt="OpenCV logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
-  />
+  /> -->
 </div>
 
 #### **Design Tools:**
