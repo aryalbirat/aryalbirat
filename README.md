@@ -196,20 +196,19 @@ Feel free to reach out for collaboration or discussions on any of these topics!
 <!-- GitHub stats -->
 ### GitHub Stats:
 
+
 <div align="center">
   <img
     height="150"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api.svg?username=aryalbirat&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=aryalbirat&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&cache_seconds=1800"
   />
 
   <img
     height="150"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=aryalbirat&layout=compact&langs_count=5&theme=dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aryalbirat&layout=compact&langs_count=5&theme=dark&hide_border=false&cache_seconds=1800"
   />
-
-  <br /><br />
 
   <img
     alt="Profile Summary"
