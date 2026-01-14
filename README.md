@@ -194,30 +194,30 @@ Feel free to reach out for collaboration or discussions on any of these topics!
 ### GitHub Stats:
 
 <!-- GitHub stats -->
+### GitHub Stats:
+
 <div align="center">
-  <div>
-    <img
-      height="150"
-      alt="Stats graph"
-      src="https://github-readme-stats.vercel.app/api?username=aryalbirat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
-    />
-    <img
-      height="150"
-      alt="Languages graph"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=aryalbirat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
-    />
-  </div>
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark"
-    alt="Profile detail"
+    height="150"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api.svg?username=aryalbirat&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false"
   />
-  <!--
+
   <img
-    src="https://raw.githubusercontent.com/aryalbirat/aryalbirat/output/snake/snake.svg"
-    alt="Snake animation"
+    height="150"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=aryalbirat&layout=compact&langs_count=5&theme=dark&hide_border=false"
   />
-  -->
+
+  <br /><br />
+
+  <img
+    alt="Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark"
+  />
 </div>
+
+
 
 ##
 
