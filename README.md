@@ -67,33 +67,15 @@ I’m a **Software Engineering student** and a **Full Stack Developer** based in
 
 Feel free to reach out for collaboration or discussions on any of these topics!
 
-### Tools and Technologies I Use Frequently:
+### Tools and Technologies:
 
 #### **Programming Languages:**
 <div>
   <img
     height="30"
     width="42"
-    alt="HTML logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="CSS logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
     alt="JavaScript logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="PHP logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
   />
   <img
     height="30"
@@ -104,13 +86,43 @@ Feel free to reach out for collaboration or discussions on any of these topics!
   <img
     height="30"
     width="42"
+    alt="C logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="C++ logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
     alt="Java logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="PHP logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
   />
 </div>
 
 #### **Frameworks and Libraries:**
 <div>
+  <img
+    height="30"
+    width="42"
+    alt="Next.js logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="Node.js logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  />
   <img
     height="30"
     width="42"
@@ -120,42 +132,104 @@ Feel free to reach out for collaboration or discussions on any of these topics!
   <img
     height="30"
     width="42"
-    alt="Node logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    alt="Express logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="NextJS logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="TailwindCSS logo"
+    alt="Tailwind CSS logo"
     src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
   />
-<!--   <img
+  <img
     height="30"
     width="42"
-    alt="PyTorch logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+    alt="Django logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+  />
+</div>
+
+#### **Databases:**
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="MySQL logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="PostgreSQL logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="MongoDB logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  />
+</div>
+
+#### **AI/ML & Data Science:**
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="TensorFlow logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
   />
   <img
     height="30"
     width="42"
     alt="OpenCV logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
-  /> -->
+  />
+  <img
+    height="30"
+    width="42"
+    alt="scikit-learn logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="Pandas logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="NumPy logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+  />
 </div>
-<!--
-#### **Design Tools:**
+
+#### **Tools & Platforms:**
 <div>
   <img
     height="30"
     width="42"
-    alt="Canva logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+    alt="Git logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="GitHub logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="Docker logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="VS Code logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   />
   <img
     height="30"
@@ -169,22 +243,11 @@ Feel free to reach out for collaboration or discussions on any of these topics!
     alt="Photoshop logo"
     src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
   />
-</div>
- />
-
-#### **Databases:**
-<div>
   <img
     height="30"
     width="42"
-    alt="MySQL logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="MongoDB logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    alt="Postman logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
   />
 </div>
 
