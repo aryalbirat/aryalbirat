@@ -9,11 +9,11 @@
 
 <br/>
 
-**Product Designer · Software Engineering Background · Kathmandu, Nepal**
+**Product Designer · Kathmandu, Nepal**
 
 Engineering taught me how products are built. Now I focus on how they feel.
 
-I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on design experience — working across UI/UX design, product flows, and visual branding for real organizations and production products. My engineering depth means I don't just design screens — I design things that are actually buildable.
+I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on design experience, working across UI/UX design, product flows, and visual branding for real organizations and production products.
 
 - 🎨 Currently focused on **Product Design** — UI/UX, user flows, and design systems
 - ⚙️ Background in **Full Stack Development** — Next.js, Django, Node.js
@@ -44,34 +44,6 @@ I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on 
 
 <br/>
 
----
-
-### 🎨 Design Work
-
-| Project | Type | Link |
-|--------|------|------|
-| Flatzee — Host Onboarding UX | Product Design · User Flow · Figma | [View →](https://figma.com) |
-| Astrogen — Website Redesign | Wireframing · UI Design · Prototyping | [View →](https://figma.com) |
-| NCIT Tech Competition Website | UI Design · Collaboration | [View →](https://figma.com) |
-| Community Brand & Visual Design | Visual Identity · Social Media · Event Branding | [View →](https://canva.link/uqlnm51t3rrsk4o) |
-
-> Replace the Figma links above with your actual Figma file links
-
-<br/>
-
----
-
-### ⚙️ Engineering Projects
-
-| Project | Stack | Link |
-|--------|-------|------|
-| Cricksy — Cricket Court Booking | React · Node.js · MongoDB · Docker · AWS | [GitHub →](https://github.com/aryalbirat/Cricksy) |
-| ClassCam — AI Student Monitor | React TS · Node.js · Flask · YOLOv5 · Docker | [GitHub →](https://github.com/aryalbirat/ClassCam) |
-
-<br/>
-
----
-
 ### 🛠️ Tools & Technologies
 
 #### Design
@@ -80,7 +52,7 @@ I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on 
   <img height="30" width="42" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 </div>
 
-#### Engineering
+#### Development
 <div>
   <img height="30" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -113,4 +85,3 @@ I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on 
 
 ---
 
-*"Engineering taught me how products are built. Design taught me why they matter."*
