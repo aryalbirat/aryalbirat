@@ -75,15 +75,15 @@ I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on 
 
 
 
-<!--
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aryalbirat&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aryalbirat&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark" />
+  <!-- <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark" /> -->
 </div>
 
-<br/> -->
+<br/> 
 
 ---
 
