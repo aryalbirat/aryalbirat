@@ -65,10 +65,9 @@ Blockchain-based land registration system developed as a **final-year Software E
 
 ## 📈 GitHub Stats
 
-![Birat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryalbirat&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryalbirat&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryalbirat&layout=compact&hide_border=true)
-
 ---
 
 ## 🎯 Currently
