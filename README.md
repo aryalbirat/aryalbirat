@@ -1,89 +1,82 @@
 # Hi, I'm Birat Aryal 👋
 
-<div align="left">
-  <a href="https://wakatime.com/@64ad96f2-8815-4a1c-8606-e3155e039cce" target="_blank">
-    <img src="https://wakatime.com/badge/user/64ad96f2-8815-4a1c-8606-e3155e039cce.svg" alt="WakaTime Badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aryalbirat&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+**Software Engineering Student · Data & Backend Enthusiast · Kathmandu, Nepal**
 
-<br/>
+I build software systems and explore data-driven solutions.
 
-**Product Designer · Kathmandu, Nepal**
+I'm a final-year Software Engineering student at **Nepal College of Information Technology (NCIT)** with hands-on experience across **backend development, data analysis, full-stack development, and machine learning**.
 
-Engineering taught me how products are built. Now I focus on how they feel.
-
-I'm a final-year Software Engineering student at NCIT with 2+ years of hands-on design experience, working across UI/UX design, product flows, and visual branding for real organizations and production products.
-
-- 🎨 Currently focused on **Product Design** — UI/UX, user flows, and design systems
-- ⚙️ Background in **Full Stack Development** — Next.js, Django, Node.js
-- 🧠 Interested in **AI & Fintech** products and experiences
-- 🌍 Redesigning real Nepali products that millions use but nobody has bothered to fix yet
-- 💬 Open to **design internships, collaborations, and conversations**
-
-<br/>
+- 📊 Interested in **Data Analytics, Data Science, and Machine Learning**
+- ⚙️ Building backend systems with **Django, Django REST Framework, Node.js, and Express**
+- 🐍 Working with **Python, Pandas, NumPy, Matplotlib, and Seaborn**
+- 🗄️ Experienced with **PostgreSQL, PostGIS, MongoDB, and MySQL**
+- 🤖 Exploring **Machine Learning, Computer Vision, GANs, and AI**
+- 🌐 Also experienced in **React, Next.js, TypeScript, and full-stack development**
+- 🔗 Currently working on a **blockchain-based land registration system** as my final-year project
+- 💬 Open to **Data Analyst, Backend Developer, and Software Engineering opportunities**
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aryalbirat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mailbirataryal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://aryalbirat.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7F167F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/birataryal_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br/>
-
-### 🛠️ Tools & Technologies
-
-#### Design
-<div>
-  <img height="30" width="42" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="30" width="42" alt="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
-</div>
-
-#### Development
-<div>
-  <img height="30" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="30" width="42" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" width="42" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img height="30" width="42" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30" width="42" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img height="30" width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" width="42" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="30" width="42" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="30" width="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="30" width="42" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" width="42" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img height="30" width="42" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
-
-<br/>
+[LinkedIn](https://www.linkedin.com/in/aryalbirat) · [GitHub](https://github.com/aryalbirat)
 
 ---
 
+## 🛠️ Skills & Technologies
 
+### 📊 Data & Analytics
 
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Analysis` `Data Visualization` `Machine Learning`
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aryalbirat&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aryalbirat&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  <!-- <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark" /> -->
-</div>
+### ⚙️ Backend Development
 
-<br/> 
+`Django` `Django REST Framework` `Node.js` `Express.js` `REST APIs` `JWT` `OAuth`
+
+### 🗄️ Databases & Infrastructure
+
+`PostgreSQL` `PostGIS` `MongoDB` `MySQL` `Docker` `AWS` `Git`
+
+### 💻 Frontend Development
+
+`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+
+### 🤖 AI / Machine Learning
+
+`TensorFlow` `Keras` `GANs` `Autoencoders` `Computer Vision` `Supervised Learning`
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Text-to-Sign
+Nepali sign-language image generation system using **Conditional GANs, Autoencoders, Python, TensorFlow/Keras, and Flask**.
+
+### 🔹 ClassCam
+AI-powered classroom analytics system using **YOLOv5, Python, Flask, React, and MongoDB** to analyze student attentiveness from live video.
+
+### 🔹 Linkly
+Privacy-focused URL shortener with **analytics, JWT authentication, dashboards, and Python-based data visualization**.
+
+### 🔹 Propchain
+Blockchain-based land registration system developed as a **final-year Software Engineering project**, combining software engineering and blockchain technologies.
+
+---
+
+## 📈 GitHub Stats
+
+![Birat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryalbirat&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryalbirat&layout=compact&hide_border=true)
+
+---
+
+## 🎯 Currently
+
+**Learning:** Data Analytics · Machine Learning · Backend Architecture · Blockchain
+
+**Looking for:** Data Analyst · Backend Developer · Software Engineering opportunities
+
+---
+
+> Building, learning, and improving one project at a time. 🚀
