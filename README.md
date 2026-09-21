@@ -1,19 +1,16 @@
 # Hi, I'm Birat Aryal 👋
 
-**Software Engineering Student · Data & Backend Enthusiast · Kathmandu, Nepal**
+**Software Engineer · Backend & Full-Stack Development · Kathmandu, Nepal**
 
-I build software systems and explore data-driven solutions.
+I build backend systems and full-stack applications, with a focus on clean architecture, maintainable code, and practical software engineering.
 
-I'm a final-year Software Engineering student at **Nepal College of Information Technology (NCIT)** with hands-on experience across **backend development, data analysis, full-stack development, and machine learning**.
+Final-year Software Engineering student at **Nepal College of Information Technology (NCIT)**. Currently working at **imark Digital**, building fintech systems with **ASP.NET Core + Angular**.
 
-- 📊 Interested in **Data Analytics, Data Science, and Machine Learning**
-- ⚙️ Building backend systems with **Django, Django REST Framework, Node.js, and Express**
-- 🐍 Working with **Python, Pandas, NumPy, Matplotlib, and Seaborn**
-- 🗄️ Experienced with **PostgreSQL, PostGIS, MongoDB, and MySQL**
-- 🤖 Exploring **Machine Learning, Computer Vision, GANs, and AI**
-- 🌐 Also experienced in **React, Next.js, TypeScript, and full-stack development**
-- 🔗 Currently working on a **blockchain-based land registration system** as my final-year project
-- 💬 Open to **Data Analyst, Backend Developer, and Software Engineering opportunities**
+* ⚙️ Primary stack: **C#, ASP.NET Core, Angular, Entity Framework Core, PostgreSQL, SQL Server**
+* 🏗️ Comfortable with **Clean Architecture, JWT authentication, REST API design, and relational databases**
+* ☁️ Familiar with **Docker, AWS, Git, and modern software development workflows**
+* 🐍 Previous experience with **Python, Django, React, Next.js, and Node.js**
+* 💬 Open to **Software Engineering** and **Backend Engineering** opportunities
 
 ---
 
@@ -23,61 +20,59 @@ I'm a final-year Software Engineering student at **Nepal College of Information 
 
 ---
 
-## 🛠️ Skills & Technologies
+### ⚙️ Primary Stack
 
-### 📊 Data & Analytics
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Analysis` `Data Visualization` `Machine Learning`
+### 🧩 Backend & Web
 
-### ⚙️ Backend Development
-
-`Django` `Django REST Framework` `Node.js` `Express.js` `REST APIs` `JWT` `OAuth`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🗄️ Databases & Infrastructure
 
-`PostgreSQL` `PostGIS` `MongoDB` `MySQL` `Docker` `AWS` `Git`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💻 Frontend Development
+### 🤖 AI & Machine Learning
 
-`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
-
-### 🤖 AI / Machine Learning
-
-`TensorFlow` `Keras` `GANs` `Autoencoders` `Computer Vision` `Supervised Learning`
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Text-to-Sign
-Nepali sign-language image generation system using **Conditional GANs, Autoencoders, Python, TensorFlow/Keras, and Flask**.
-
-### 🔹 ClassCam
-AI-powered classroom analytics system using **YOLOv5, Python, Flask, React, and MongoDB** to analyze student attentiveness from live video.
-
-### 🔹 Linkly
-Privacy-focused URL shortener with **analytics, JWT authentication, dashboards, and Python-based data visualization**.
-
-### 🔹 Propchain
-Blockchain-based land registration system developed as a **final-year Software Engineering project**, combining software engineering and blockchain technologies.
-
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryalbirat&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryalbirat&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryalbirat&layout=compact&theme=dark" alt="Top Languages" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark" alt="GitHub Profile Summary"/>
 </p>
 
 ---
 
 ## 🎯 Currently
 
-**Learning:** Data Analytics · Machine Learning · Backend Architecture · Blockchain
+**Working on:** ASP.NET Core + Angular projects at imark Digital
 
-**Looking for:** Data Analyst · Backend Developer · Software Engineering opportunities
+**Looking for:** Software Engineering · Backend Engineering opportunities
 
 ---
 
-> Building, learning, and improving one project at a time. 🚀
+> Building real systems, one clean commit at a time. 🚀
