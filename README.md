@@ -57,9 +57,9 @@ Final-year Software Engineering student at **Nepal College of Information Techno
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryalbirat&layout=compact&theme=dark" alt="Top Languages" height="200"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryalbirat&theme=dark" alt="GitHub Profile Summary"/>
