@@ -2,6 +2,8 @@
 
 **Software Engineer · Backend & Full-Stack Development · Kathmandu, Nepal**
 
+![Profile Views](https://komarev.com/ghpvc/?username=aryalbirat&label=Profile%20Views&color=0e75b6&style=flat)
+
 I build backend systems and full-stack applications, with a focus on clean architecture, maintainable code, and practical software engineering.
 
 Final-year Software Engineering student at **Nepal College of Information Technology (NCIT)**. Currently working at **imark Digital**, building fintech systems with **ASP.NET Core + Angular**.
