@@ -1,8 +1,8 @@
 # Hi, I'm Birat Aryal 👋
 
-**Software Engineer · Backend & Full-Stack Development · Kathmandu, Nepal**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aryalbirat&label=Profile%20Views&color=0e75b6&style=flat)
+
+**Software Engineer · Backend & Full-Stack Development · Kathmandu, Nepal**
 
 I build backend systems and full-stack applications, with a focus on clean architecture, maintainable code, and practical software engineering.
 
